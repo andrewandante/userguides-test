@@ -1,0 +1,9 @@
+/silverstripe-cache/
+.env
+/vendor/
+/themes/simple/
+/_resources/
+/public/_resources/
+/logs/
+/.vagrant/
+Vagrantfile
