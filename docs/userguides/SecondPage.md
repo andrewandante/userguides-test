@@ -1,3 +1,6 @@
+[ClassName]: / (Page)
+[Title]: / (This is the Second Demo Page)
+
 # SECOND PAGE MD - This is an H1
 
 Text text text

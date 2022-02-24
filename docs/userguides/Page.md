@@ -1,3 +1,7 @@
+[ClassName]: / (Page)
+[Title]: / (This is the Demo Page)
+[Description]: / (This is a description about a page)
+
 # PAGE MD - This is an H1
 
 Text text text
@@ -24,6 +28,6 @@ The last of the text is *in italics*
 
 Oh look here, an image:
 
-![This is alt text](/docs/userguides/img/stock_image_fish.jpeg)
+![This is alt text](img/stock_image_fish.jpeg)
 
 @UserDocs_Class_Name=Page
