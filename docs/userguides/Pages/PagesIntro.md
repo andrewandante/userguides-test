@@ -28,8 +28,8 @@ Once you have added content to your page, you can Save (which will save a draft)
 ### Page Features
 
 At the top of every CMS page editor is a heading with the Page name and three tabs: Content, Settings, and History.
-* The **Content** tab contains all the page’s fields, and everything unique to a page type will be in that tab. See below for details.
-* The **Settings** tab contains controls for the page’s type, visibility and permissions. See below for details.
+* The **Content** tab contains all the page's fields, and everything unique to a page type will be in that tab. See below for details.
+* The **Settings** tab contains controls for the page's type, visibility and permissions. See below for details.
 * The **History** tab shows a list of saved and published versions of the page, and can be used to restore an older version if needed. 
 
 ![Page tabs](../img/Page_GlobalPageFeatures_page_tabs.jpg)
@@ -50,7 +50,7 @@ Most pages also have an area for Content Blocks. See the **Content Blocks** sect
 The Settings tab contains the following fields:
 
 * **Page type**: A dropdown menu from which to select a new Type for the page. 
-Note: Changing a page’s type will affect the fields and blocks available to it, and may cause errors. If possible, please create a new page instead.
+Note: Changing a page's type will affect the fields and blocks available to it, and may cause errors. If possible, please create a new page instead.
 * **Page location**: Where the page sits in the site tree. Use this to change whether the page is a top-level or sub-page. Alternatively, you can drag your page to a new position using the site tree.
 * **Visibility**: These two checkboxes control where the page will appear in automatically-generated searches or menus. 
 * **Who can view this page?** and W**ho can edit this page?**: Access permission controls. Usually, these are best left as "Inherit from site access settings".

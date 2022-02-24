@@ -25,7 +25,7 @@ Images can be configured with the following fields:
     * **left**, **center** and **right** will sit on lines of their own
     * **left wrap** and **right wrap** will float next to whatever elements are nearby, e.g. the text of a nearby paragraph will wrap beside it. 
     * Note: Images should never be aligned by using the paragraph text alignment buttons.
-* **Width/Height**: The size of the image. Only the width needs to be set as the height will update automatically to retain the proportions. An image will never appear wider than the set size, but will shrink responsively to fit the user’s screen.
+* **Width/Height**: The size of the image. Only the width needs to be set as the height will update automatically to retain the proportions. An image will never appear wider than the set size, but will shrink responsively to fit the user's screen.
 * **Caption**: The caption that will appear under the images (optional).
 * **Alternative text**: Text that describes the image for users who cannot see it, e.g. vision impaired users who navigate with screen readers. This is required for the accessibility.
 
@@ -46,7 +46,7 @@ Videos can be configured with the following fields:
     * **left**, **center** and **right** will sit on lines of their own
     * **left wrap** and **right wrap** will float next to whatever elements are nearby, e.g. the text of a nearby paragraph will wrap beside it. 
     * Note: Videos should never be aligned by using the paragraph text alignment buttons.
-* **Width/Height**: The size of the video. Only the width needs to be set as the height will update automatically to retain the proportions. Videos will never appear wider than the set size, but will shrink responsively to fit the uer’s screen.
+* **Width/Height**: The size of the video. Only the width needs to be set as the height will update automatically to retain the proportions. Videos will never appear wider than the set size, but will shrink responsively to fit the user's screen.
 * **Caption**: The caption that will appear under the video.
 
 ![Video config screen](../img/SiteTools_RichTextEditor_Video-config.png)

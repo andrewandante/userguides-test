@@ -23,8 +23,8 @@ _Standard Link editor (Page on this website option)_
 * **Type**: This dropdown field will show all the available types of links, and which option is selected will affect which field follows it:
     * **Page on this website**, for internal site links. Selecting this shows the **Page** field, a dropdown which lists every page in the current site. Site pages with child pages have a ">" symbol on the left; click this to navigate the child pages until you find the page you want.
     * **URL**, for external site links. Selecting this shows the **URL** field, a text field in which to type the full site address of the target site (e.g. http://www.google.co.nz).
-    * **Email address** shows the **Email Address** field. When this kind of link is created, clicking the text will trigger the user’s email app or browser.
-    * **Phone number** shows the **Phone Number** field. When this kind of link is created, clicking the text will trigger the user’s phone app or browser. Use the Title field for spaced versions of the phone number; the Number field does not accept spaces. Special characters such as “+” are accepted.
+    * **Email address** shows the **Email Address** field. When this kind of link is created, clicking the text will trigger the user's email app or browser.
+    * **Phone number** shows the **Phone Number** field. When this kind of link is created, clicking the text will trigger the user's phone app or browser. Use the Title field for spaced versions of the phone number; the Number field does not accept spaces. Special characters such as "+" are accepted.
     * **File on this website**, for files already uploaded to the site in the Files menu. This shows the **File** dropdown, which works like the **Page** dropdown.
 * **Open link in new window**: A checkbox that will open the link, regardless of type, in a new tab/window.
 

@@ -23,7 +23,7 @@ To remove a content block, click the dots to the right of the Publish button and
 
 Blocks have a wide variety of features that vary depending on what the block does, but some features are universal.
 
-* **Title**: Nearly all blocks will have a Title field, which are used as labels in a page's list of blocks. Once a block title is added and saved, it will appear on the collapsed block in the page list. If no title has been saved, it will be called "_Untitled [block name] block_".
+* **Title**: Nearly all blocks will have a Title field, which are used as labels in a pages list of blocks. Once a block title is added and saved, it will appear on the collapsed block in the page list. If no title has been saved, it will be called "_Untitled [block name] block_".
 * **"Displayed" checkbox**: Some title fields will have a checkbox marked "Displayed: next to them. Check this box to make the block title appear at the top of the block on the public published page. 
 
 <!-- ToDo: Add any other fields that are universal across all blocks, including any in the Settings tab. -->
