@@ -2431,12 +2431,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/andrewandante/silverstripe-clippy.git",
-                "reference": "fbcc1a3bfe504c96460619fb34797cef74185aae"
+                "reference": "af8f63de58e10065464b8221dd506b43e0146043"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andrewandante/silverstripe-clippy/zipball/fbcc1a3bfe504c96460619fb34797cef74185aae",
-                "reference": "fbcc1a3bfe504c96460619fb34797cef74185aae",
+                "url": "https://api.github.com/repos/andrewandante/silverstripe-clippy/zipball/af8f63de58e10065464b8221dd506b43e0146043",
+                "reference": "af8f63de58e10065464b8221dd506b43e0146043",
                 "shasum": ""
             },
             "require": {
@@ -2477,7 +2477,7 @@
                 "source": "https://github.com/andrewandante/silverstripe-clippy/tree/main",
                 "issues": "https://github.com/andrewandante/silverstripe-clippy/issues"
             },
-            "time": "2022-02-24T03:21:07+00:00"
+            "time": "2022-02-24T21:18:56+00:00"
         },
         {
             "name": "silverstripe/cms",

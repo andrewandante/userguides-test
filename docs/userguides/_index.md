@@ -1,5 +1,6 @@
 # Index
 
-* [Intro](/cms-user-guide/viewdoc/introduction)
-* [First Page](/cms-user-guide/viewdoc/Page)
-* [Second Page](/cms-user-guide/viewdoc/SecondPage)
+* [Intro](introduction.md)
+* [First Page](Page.md)
+* [Second Page](SecondPage.md)
+  * [Third Page](depth/ThirdPage.md)
