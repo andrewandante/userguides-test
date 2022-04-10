@@ -8,7 +8,7 @@
 * [Blocks](Blocks/BlocksIntro.md)
     * [Content Block](Blocks/ContentBlock.md)
     * [Example Block](Blocks/ExampleBlock.md)
-* [Site Tools](SiteTools/SiteTools.md)
+* [Site Tools]
     * [Links](SiteTools/Links.md)
     * [Rich Text Editor](SiteTools/RichTextEditor.md)
 * [Information Management](InformationManagement/InformationManagementIntro.md)

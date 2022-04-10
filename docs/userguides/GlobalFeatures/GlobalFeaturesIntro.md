@@ -1,4 +1,4 @@
-[ClassName]: / (GlobalFeatures)
+[ClassName]: / (SilverStripe\\SiteConfig\\SiteConfig)
 [Title]: / (Global Features intro)
 [Description]: / (An outline of Global Features)
 
